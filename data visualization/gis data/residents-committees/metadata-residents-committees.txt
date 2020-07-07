@@ -1,0 +1,31 @@
+# Metadata for Residents Committees
+---
+Identifier: '9773f3e0-e48e-4555-87e5-4de10be2728d'
+Name: 'residents-committees'
+Title: 'Residents Committees'
+Description: 'Residents Committee in Singapore'
+Topics:
+  - 'Infrastructure'
+  - 'Society'
+Keywords:
+  - 'Activities'
+  - 'Committee'
+  - 'Courses'
+  - 'Interest'
+  - 'RC'
+  - 'Residents'
+  - 'activities'
+  - 'people association'
+Publisher:
+  Name: 'People''s Association'
+Sources:
+  - 'People''s Association'
+License: 'https://data.gov.sg/terms'
+Frequency: 'Ad-hoc'
+Last Updated: '2016-09-10T03:50:08.221923'
+Resources:
+  Identifier: 'ada04399-3636-453e-aa4a-57f8845954ae'
+  Title: 'Residents Committees (SHP)'
+  Url: 'https://geo.data.gov.sg/residentscommittee/2016/09/07/shp/residentscommittee.zip'
+  Format: 'SHP'
+  Last Updated: '2016-09-06T16:00:00'

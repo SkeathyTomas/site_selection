@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 16:20:57 
+[georeference] 
+nrows= 344 
+ncols= 500 
+xmin= 103.566666666667 
+ymin= 1.15 
+xmax= 104.1 
+ymax= 1.51666666666667 
+projection= +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0 
+[data] 
+datatype= INT2S 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= 71 
+maxvalue= 5567 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= sgp_pop 
+history=  
